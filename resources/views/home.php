@@ -1,7 +1,10 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: root
- * Date: 2018/12/17
- * Time: 下午 05:10
- */
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+</head>
+<body>
+<h1>Home</h1>
+</body>
+</html>
